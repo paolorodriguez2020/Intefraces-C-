@@ -1,0 +1,7 @@
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Volador\bin\Debug\Volador.exe.config
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Volador\bin\Debug\Volador.exe
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Volador\bin\Debug\Volador.pdb
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Volador\obj\Debug\Volador.csproj.AssemblyReference.cache
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Volador\obj\Debug\Volador.csproj.CoreCompileInputs.cache
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Volador\obj\Debug\Volador.exe
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Volador\obj\Debug\Volador.pdb

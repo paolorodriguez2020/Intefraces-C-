@@ -1,0 +1,7 @@
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Imprimible\bin\Debug\Imprimible.exe.config
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Imprimible\bin\Debug\Imprimible.exe
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Imprimible\bin\Debug\Imprimible.pdb
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Imprimible\obj\Debug\Imprimible.csproj.AssemblyReference.cache
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Imprimible\obj\Debug\Imprimible.csproj.CoreCompileInputs.cache
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Imprimible\obj\Debug\Imprimible.exe
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\Imprimible\obj\Debug\Imprimible.pdb
